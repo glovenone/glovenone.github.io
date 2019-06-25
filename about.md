@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: glovenone
 title: About
 permalink: /about/
 ---
@@ -17,13 +17,4 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll
 
-## jekyll
-  gem install bundler jekyll
 
-  jekyll new my-awesome-site
-
-  cd my-awesome-site
-
-  bundle exec jekyll serve
-
-# => Now browse to http://localhost:4000
